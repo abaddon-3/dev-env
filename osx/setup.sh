@@ -15,5 +15,5 @@ fi
 ln -s $script_path/.zshrc ~/.zshrc
 ln -s $script_path/.p10k.zsh ~/.p10k.zsh
 
-git config --global user.name andrew.greene
-git config --global user.email andrew@noreply.com
+git config --global user.name daniel.greene
+git config --global user.email knewimale@gmail.com
